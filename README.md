@@ -30,7 +30,7 @@ The analysis and visualizations were originally performed on data stored in Snow
 
 ### Option 1: Run on Google Colab (recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fernando-ace/vehicle-sales-profitability-analysis/blob/main/vehicle_sales_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fernando-ace/vehicle-sales-profitability-analysis/blob/main/vehicle_sales_profitability_analysis.ipynb)
 
 1. Click the **Open In Colab** badge above to open the notebook in Google Colab.  
 2. Upload the `sample_vehicle_sales.csv` file to the Colab environment (use the file upload button in Colab's file explorer).  
