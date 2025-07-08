@@ -55,7 +55,7 @@ The analysis and visualizations were originally performed on data stored in Snow
     pip install pandas matplotlib seaborn
     ```
 
-3. Open `vehicle_sales_analysis.ipynb` with Jupyter Notebook, JupyterLab, or VSCode.  
+3. Open `vehicle_sales_profitability_analysis.ipynb` with Jupyter Notebook, JupyterLab, or VSCode.  
 4. Set the CSV path variable in the notebook to:
     ```python
     csv_path = 'sample_vehicle_sales.csv'
